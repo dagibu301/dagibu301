@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Profile! <img src="https://raw.githubusercontent.com/dagibu301/dagibu301/master/wave.gif" width="30px">
 
-I am David Giraldo, I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am a tech enthusiast, always open to collaborate on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-David_Giraldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-giraldo-bueno/)](https://www.linkedin.com/in/david-giraldo-bueno/)
 [![Gmail Badge](https://img.shields.io/badge/-davidgiraldobueno@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidgiraldobueno@gmail.com)](mailto:davidgiraldobueno@gmail.com)
