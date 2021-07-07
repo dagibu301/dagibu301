@@ -4,6 +4,7 @@ I am a tech enthusiast, always open to collaborate on projects and innovative/di
 
 [![Linkedin Badge](https://img.shields.io/badge/-David_Giraldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-giraldo-bueno/)](https://www.linkedin.com/in/david-giraldo-bueno/)
 [![Gmail Badge](https://img.shields.io/badge/-davidgiraldobueno@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidgiraldobueno@gmail.com)](mailto:davidgiraldobueno@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-davidgiraldo.app-black?style=flat-square&logo=Brave&logoColor=white&link=https://david-giraldo-bueno.netlify.app/)](https://david-giraldo-bueno.netlify.app/)
 
 ## ⚡ Technologies
 
