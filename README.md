@@ -1,4 +1,4 @@
-## Welcome to my GitHub Profile! <img src="https://raw.githubusercontent.com/dagibu301/dagibu301/master/wave.gif" width="32px">
+## Welcome to my GitHub Profile!
 
 I am a tech enthusiast, always open to collaborate on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
